@@ -1,0 +1,31 @@
+2020-05-13
+----------
+
+unable to install bpy
+So testing with blender remains a problem
+
+
+from mecho_blender
+
+Start blender fro command line
+
+/Applications/Blender.app/Contents/MacOS/Blender
+
+this lets you see python errors in the console
+
+OR
+
+/Applications/Blender.app/Contents/MacOS/Blender -P /Users/santoshphilip/Documents/coolshadow/github/eppyjuice/eppyjuice/poly.py
+
+OR - run in background
+
+/Applications/Blender.app/Contents/MacOS/Blender --background -P /Users/santoshphilip/Documents/coolshadow/github/eppyjuice/eppyjuice/poly.py
+
+
+2020-05-07
+----------
+
+python3 -m venv ~/venvs/eppyjuice
+python3.7 -m venv ~/venvs/eppyjuice
+source ~/venvs/eppyjuice/bin/activate
+

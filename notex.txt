@@ -1,7 +1,0 @@
-2020-05-07
-----------
-
-python3 -m venv ~/venvs/eppyjuice
-python3.7 -m venv ~/venvs/eppyjuice
-source ~/venvs/eppyjuice/bin/activate
-
