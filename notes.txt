@@ -1,6 +1,26 @@
 2020-05-13
 ----------
 
+run eppyjuice/drawidf.py in blender
+It will draw the idf
+
+2020-05-13
+----------
+
+imstall eppy3000 in blender python
+
+cd /Applications/Blender.app/Contents/Resources/2.80/python
+./bin/python3.7m -m pip install -U pip
+./bin/python3.7m -m pip install eppy3000
+./bin/python3.7m -m pip install eppy
+
+./bin/python3.7m -m pip list
+
+
+
+2020-05-13
+----------
+
 unable to install bpy
 So testing with blender remains a problem
 
@@ -28,4 +48,8 @@ OR - run in background
 python3 -m venv ~/venvs/eppyjuice
 python3.7 -m venv ~/venvs/eppyjuice
 source ~/venvs/eppyjuice/bin/activate
+
+
+
+
 
